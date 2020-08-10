@@ -9,6 +9,8 @@ namespace Test2
             Console.WriteLine("Hello World!");
 
             Console.ReadLine();
+
+            Console.WriteLine("Wow this is nice");
         }
     }
 }
