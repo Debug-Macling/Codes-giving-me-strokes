@@ -87,12 +87,7 @@ namespace THE_FINAL_TEST_MAYBE
 
         private void OnProcessExit(object sender, EventArgs e)
         {
-            /* for (byte i = 0; i < 10; i++)
-             {
-                 device.SetColor(0, i, 0, 0, 0);
-             } */
-           // SetColor("black");
-
+            
         }
 
         private void SetColor(string Color)
