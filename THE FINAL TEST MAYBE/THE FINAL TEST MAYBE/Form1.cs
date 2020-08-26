@@ -67,35 +67,17 @@ namespace THE_FINAL_TEST_MAYBE
 
         private void frenchToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string buttonAvailable = "Présent";
-            string ButtonBusy = "Occupé";
-            string ButtonAway = "Absent";
-            string ButtonMeeting = "Conférence";
-            string ButtonBreak = "Pause";
-            string ButtonSetting = "Paramètres";
-            string ButtonExit = "Fermer";
+            
         }
 
         private void englishToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string buttonAvailable = "Available";
-            string ButtonBusy = "Busy";
-            string ButtonAway = "Away";
-            string ButtonMeeting = "Meeting";
-            string ButtonBreak = "Break";
-            string ButtonSetting = "Settings";
-            string ButtonExit = "Exit";
+            
         }
 
         private void otherToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string buttonAvailable = "verfügbar";
-            string ButtonBusy = "Beschäftigt";
-            string ButtonAway = "Weg";
-            string ButtonMeeting = "Treffen";
-            string ButtonBreak = "Pause";
-            string ButtonSetting = "Einstellungen";
-            string ButtonExit = "Schließen";
+            
         }
 
         private void powerOffToolStripMenuItem_Click(object sender, EventArgs e)
